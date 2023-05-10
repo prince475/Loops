@@ -1,0 +1,15 @@
+/home/prince/Development/CsharpProjects/Loops/bin/Debug/net7.0/Loops
+/home/prince/Development/CsharpProjects/Loops/bin/Debug/net7.0/Loops.deps.json
+/home/prince/Development/CsharpProjects/Loops/bin/Debug/net7.0/Loops.runtimeconfig.json
+/home/prince/Development/CsharpProjects/Loops/bin/Debug/net7.0/Loops.dll
+/home/prince/Development/CsharpProjects/Loops/bin/Debug/net7.0/Loops.pdb
+/home/prince/Development/CsharpProjects/Loops/obj/Debug/net7.0/Loops.csproj.AssemblyReference.cache
+/home/prince/Development/CsharpProjects/Loops/obj/Debug/net7.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/prince/Development/CsharpProjects/Loops/obj/Debug/net7.0/Loops.AssemblyInfoInputs.cache
+/home/prince/Development/CsharpProjects/Loops/obj/Debug/net7.0/Loops.AssemblyInfo.cs
+/home/prince/Development/CsharpProjects/Loops/obj/Debug/net7.0/Loops.csproj.CoreCompileInputs.cache
+/home/prince/Development/CsharpProjects/Loops/obj/Debug/net7.0/Loops.dll
+/home/prince/Development/CsharpProjects/Loops/obj/Debug/net7.0/refint/Loops.dll
+/home/prince/Development/CsharpProjects/Loops/obj/Debug/net7.0/Loops.pdb
+/home/prince/Development/CsharpProjects/Loops/obj/Debug/net7.0/Loops.genruntimeconfig.cache
+/home/prince/Development/CsharpProjects/Loops/obj/Debug/net7.0/ref/Loops.dll
